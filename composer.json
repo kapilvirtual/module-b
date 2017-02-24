@@ -1,0 +1,12 @@
+{
+    "name": "luciditysoftware/module-b",
+    "type": "lucidity-module",
+    "authors": [{
+        "name": "Tristan Kenney",
+        "email": "tristan@kenney.co"
+    }],
+    "require": {
+        "luciditysoftware/lucidity-composer-installer": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
